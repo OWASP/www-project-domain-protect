@@ -14,7 +14,7 @@ pitch: Protect against subdomain takeover
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-Attackers can take over an organisation's subdomains, and use them for reputational damage, malware hosting and credential harvesting.
+Attackers can take over an organisation's subdomains, using them for reputational damage, malware hosting and credential harvesting.
 Subdomain takeover is particularly common for organisations hosting their applications and infrastructure in the cloud.
 
 **Domain Protect** helps to prevent subdomain takeover, using serverless functions in AWS or GCP to continually scan an organisation's DNS records. 
