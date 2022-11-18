@@ -2,21 +2,21 @@
 
 layout: col-sidebar
 title: OWASP Domain Protect
-tags: example-tag
+tags: domain-protect
 level: 2
-type: 
-pitch: A very brief, one-line description of your project
+type: tool
+pitch: Protect against subdomain takeover
 
 ---
+[!OWASP state](https://img.shields.io/badge/owasp-Incubator%20Project-green.svg)
+[![Release version](https://img.shields.io/github/release/OWASP/domain-protect)](https://github.com/domain-protect/domain-protect/releases)
+[![Domain Protect Github Stars](https://img.shields.io/github/stars/domain-protect/domain-protect?label=domain-protect&style=social)](https://github.com/domain-protect/domain-protect)
+[![Python 3.x](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Attackers can take over an organisation's subdomains, and use them for reputational damage, malware hosting and credential harvesting.
+Subdomain takeover is particularly common for organisations hosting their applications and infrastructure in the cloud.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+Domain Protect helps to prevent subdomain takeover, using serverless functions in AWS or GCP to continually scan an organisation's DNS records. 
+When vulnerable subdomains are found, it sends alerts via Slack or email, and optionally creates cloud resources to take over subdomains before attackers or bug bounty researchers.
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, tool, documentation, or other
