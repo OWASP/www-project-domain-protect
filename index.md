@@ -20,4 +20,4 @@ Subdomain takeover is particularly common for organisations hosting their applic
 **Domain Protect** helps to prevent subdomain takeover, using serverless functions in AWS or GCP to continually scan an organisation's DNS records. 
 When vulnerable subdomains are found, it sends alerts via Slack or email, and optionally creates cloud resources to take over subdomains before attackers or bug bounty researchers.
 
-![Alt text](assets/images/domain-protect.png?raw=true "Domain Protect architecture")
+<img src="assets/images/new.png" width="600">
