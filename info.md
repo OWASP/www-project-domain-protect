@@ -1,5 +1,5 @@
 ## OWASP Domain Protect
-![](/assets/images/domain-protect-icon.png)
+<img src="assets/images/domain-protect-icon.png">
 
 #### Classification
 
