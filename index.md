@@ -21,3 +21,17 @@ Subdomain takeover is particularly common for organisations hosting their applic
 When vulnerable subdomains are found, it sends alerts via Slack or email, and optionally creates cloud resources to take over subdomains before attackers or bug bounty researchers.
 
 <img src="assets/images/new.png" width="600">
+
+## Installation
+
+Domain Protect is installed to your AWS or GCP environment using Terraform. The most straightforward way is to use GitHub Actions with [Domain Protect Deploy](https://github.com/domain-protect/domain-protect-deploy).
+
+If you want to test for vulnerable domains in AWS, GCP or Cloudflare without installing anything, you can run [manual scans](https://github.com/domain-protect/domain-protect/blob/main/manual_scans/aws/README.md) from your laptop.
+
+## Contributing to Domain Protect
+
+We very much welcome contributors to the project, and we're also looking for more Project Leaders.
+
+Working on Domain Protect is a great way to improve your skills in Python and Terraform development, increase your knowledge and experience of serverless across different cloud providers, and enhance your reputation across the security community.
+
+The first step is to get in touch with the Project Leader [Paul Schwarzenberger](mailto:paul.schwarzenberger@owasp.org) at OWASP Slack channel #project-domain-protect or by email.

@@ -1,2 +1,2 @@
 ### Leaders
-* [Paul Schwarzenberger](mailto:paul@celidor.net)
+* [Paul Schwarzenberger](mailto:paul.schwarzenberger@owasp.org)
