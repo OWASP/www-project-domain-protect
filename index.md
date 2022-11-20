@@ -40,8 +40,9 @@ or to GCP
 
 <img src="assets/images/gcp-architecture.png">
 
-* installation options detailed in [installation documentation](https://github.com/domain-protect/domain-protect/blob/main/docs/installation.md)
-* recommended approach is to use GitHub Actions with [Domain Protect Deploy](https://github.com/domain-protect/domain-protect-deploy)
+Installation options detailed in [installation documentation](https://github.com/domain-protect/domain-protect/blob/main/docs/installation.md)
+
+We recommended deployment using GitHub Actions with [Domain Protect Deploy](https://github.com/domain-protect/domain-protect-deploy)
 
 ### Manual Scans
 
