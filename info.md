@@ -21,7 +21,7 @@
 
 ### Blogs
 * [How we prevented subdomain takeovers and saved $000s](https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s/)  
-* [OVO vs. Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
+* [OVO v Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
 
 ### Conferences and Meetups
 [SANS CloudSec Next 2022](https://youtu.be/Boy8DYrC-Xw)  
