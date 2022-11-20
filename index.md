@@ -29,3 +29,22 @@ We very much welcome contributors to the project, and we're also looking for mor
 Working on Domain Protect is a great way to improve your skills in Python and Terraform development, increase your knowledge and experience of serverless across different cloud providers, and enhance your reputation within the security community.
 
 The first step is to get in touch with the Project Leader [Paul Schwarzenberger](mailto:paul.schwarzenberger@owasp.org) at OWASP Slack channel #project-domain-protect or by email.
+
+### Deployment
+
+Deploy Domain Protect to your AWS environment using Terraform
+
+<img src="assets/images/domain-protect.png">
+
+or to GCP
+
+<img src="assets/images/gcp-architecture.png">
+
+* installation options detailed in [installation documentation](https://github.com/domain-protect/domain-protect/blob/main/docs/installation.md)
+* recommended approach is to use GitHub Actions with [Domain Protect Deploy](https://github.com/domain-protect/domain-protect-deploy)
+
+### Manual Scans
+
+Penetration testers and those evaluating Domain Protect can use [manual scans](https://github.com/domain-protect/domain-protect/blob/main/manual_scans/aws/README.md) in AWS, GCP or Cloudflare to identify vulnerabilities from their laptop with no installation of cloud infrastructure.
+
+<img src="assets/images/vulnerable-eb-cnames.png">
