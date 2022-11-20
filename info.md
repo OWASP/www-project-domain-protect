@@ -27,5 +27,8 @@
 [SANS CloudSec Next 2022](https://youtu.be/Boy8DYrC-Xw)  
 [Cloud Security Meetup London 2022](https://youtu.be/4Hg9bEvxTRo)
 
+### Social Media
+* [Twitter](https://twitter.com/domain_protect)
+
 ### Community
 * [Slack Channel](https://owasp.slack.com/messages/project-domain-protect)
