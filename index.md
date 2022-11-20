@@ -15,7 +15,7 @@ pitch: Protect against subdomain takeover
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 Attackers can take over an organisation's subdomains, using them for reputational damage, malware hosting and credential harvesting.
-Subdomain takeover is particularly common for organisations hosting their applications and infrastructure in the cloud.
+Subdomain takeover by bug bounty researchers is particularly common for organisations hosting their applications and infrastructure in the cloud.
 
 **Domain Protect** helps to prevent subdomain takeover, using serverless functions in AWS or GCP to continually scan an organisation's DNS records. 
 When vulnerable subdomains are found, it sends alerts via Slack or email, and optionally creates cloud resources to take over subdomains before attackers or bug bounty researchers.
