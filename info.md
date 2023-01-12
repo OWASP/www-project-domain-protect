@@ -24,6 +24,7 @@
 * [OVO v Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
 
 ### Conferences and Meetups
+[OWASP London Chapter Meetup 2022](https://youtu.be/nw6uR0glJKk)
 [SANS CloudSec Next 2022](https://youtu.be/Boy8DYrC-Xw)  
 [Cloud Security Meetup London 2022](https://youtu.be/4Hg9bEvxTRo)
 
