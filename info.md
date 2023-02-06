@@ -14,6 +14,7 @@
 * [Domain Protect Deploy](https://github.com/domain-protect/domain-protect-deploy)  
 * [Domain Protect GCP](https://github.com/domain-protect/domain-protect-gcp)  
 * [Domain Protect GCP Deploy](https://github.com/domain-protect/domain-protect-gcp-deploy)
+* [Domain Protect Demo](https://github.com/domain-protect/domain-protect-demo)
 
 ### Documentation
 * [Domain Protect documentation](https://github.com/domain-protect/domain-protect#documentation)  
