@@ -20,14 +20,15 @@
 * [Domain Protect documentation](https://github.com/domain-protect/domain-protect#documentation)  
 * [Domain Protect GCP documentation](https://github.com/domain-protect/domain-protect-gcp)
 
-### Blogs
-* [How we prevented subdomain takeovers and saved $ thousands](https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s/)  
-* [OVO v Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
-
 ### Conferences and Meetups
+[OWASP Global AppSec Dublin 2023](https://youtu.be/fLrRLmKZTvE)
 [OWASP London Chapter Meetup 2022](https://youtu.be/nw6uR0glJKk)
 [SANS CloudSec Next 2022](https://youtu.be/Boy8DYrC-Xw)  
 [Cloud Security Meetup London 2022](https://youtu.be/4Hg9bEvxTRo)
+
+### Blogs
+* [How we prevented subdomain takeovers and saved $ thousands](https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s/)  
+* [OVO v Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
 
 ### Social Media
 * [Twitter](https://twitter.com/domain_protect)
