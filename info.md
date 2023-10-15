@@ -26,9 +26,8 @@
 [SANS CloudSec Next 2022](https://youtu.be/Boy8DYrC-Xw)  
 [Cloud Security Meetup London 2022](https://youtu.be/4Hg9bEvxTRo)
 
-### Blogs
-* [How we prevented subdomain takeovers and saved $ thousands](https://tech.ovoenergy.com/how-we-prevented-subdomain-takeovers-and-saved-000s/)  
-* [OVO v Bug Bounty researchers - round 2](https://tech.ovoenergy.com/ovo-vs-bug-bounty-researchers-round-2/)
+### OWASP Project Spotlight
+* [OWASP Domain Protect](https://youtu.be/KoP1X1Dyz9o)
 
 ### Social Media
 * [Twitter](https://twitter.com/domain_protect)
