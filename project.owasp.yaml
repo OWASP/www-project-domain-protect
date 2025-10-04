@@ -1,0 +1,46 @@
+audience:
+  - breaker
+  - builder
+  - defender
+community:
+  - name: project-domain-protect
+    platform: slack
+    url: https://owasp.slack.com/archives/C04BPJ5B2P4
+    description: OWASP Domain Protect <https://owasp.org/www-project-domain-protect> - prevent subdomain takeover
+leaders:
+  - name: Paul Schwarzenberger
+    email: paul.schwarzenberger@owasp.org
+    github: paulschwarzenberger
+level: 2
+license:
+  - Apache-2.0
+name: OWASP Domain Protect
+pitch: Protect against subdomain takeover
+repositories:
+  - name: www-project-domain-protect
+    url: https://github.com/OWASP/www-project-domain-protect
+    description: OWASP Foundation Web Repository
+  - name: .github
+    url: https://github.com/domain-protect/.github
+    description: OWASP Domain Protect organization
+  - name: domain-protect-demo
+    url: https://github.com/domain-protect/domain-protect-demo
+    description: Creates infrastructure to be used in demonstrations of Domain Protect
+  - name: domain-protect-gcp
+    url: https://github.com/domain-protect/domain-protect-gcp
+    description: Protect against subdomain takeover
+  - name: domain-protect-gcp-deploy
+    url: https://github.com/domain-protect/domain-protect-gcp-deploy
+    description: Deploy Domain Protect in your GCP Organization using GitHub Actions
+  - name: renovate-config
+    url: https://github.com/domain-protect/renovate-config
+    description: Centralized renovate configuration for multiple repositories in the Domain Protect organization
+  - name: terraform-aws-domain-protect
+    url: https://github.com/domain-protect/terraform-aws-domain-protect
+    description: Terraform module for OWASP Domain Protect on AWS
+tags:
+  - domain-protect
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-domain-protect
